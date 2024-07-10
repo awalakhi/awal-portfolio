@@ -1,0 +1,30 @@
+/* common shared styles */
+body{
+    
+}
+
+/* nav related section */
+nav{
+    display: flex;
+}
+.nav-title{
+    color:black;
+    font-size: 40px;
+    font-weight: 800;
+}
+nav > ul{
+    display: flex;
+}
+nav li {
+    list-style: none;
+    margin-right : 50px;
+}
+nav a{
+    text-decoration: none;
+}
+.text-primary{
+    color: chocolate;
+}
+.btn-primary{
+    background-color: chocolate;
+}
